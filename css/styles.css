@@ -359,6 +359,11 @@ body {
 }
 
 @media only screen and (max-width: 769px) {
+
+  .play {
+    display: none;
+  }
+
   .live {
     display: none;
   }
